@@ -15,3 +15,9 @@ For frontend, I have used the following technologies to create this application
 3) JSX (HTML elements are combined with javascript code)
 4) React JS
 
+File used to create the React application are:-
+
+1) App.js
+2) App.css
+3) public folder to add the images(assets)
+
