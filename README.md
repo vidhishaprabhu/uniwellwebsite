@@ -1,5 +1,7 @@
 The command used while creating React app
 
+npm i web-vitals --save-dev to install the Web-Vitals that is required to create the React application
+
 1) npx create-react-app companyapp
   Where npx is the Node package executed
 
